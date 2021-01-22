@@ -1,0 +1,32 @@
+/* .btn{
+	margin-top: 100px;
+	font-size: inherit;
+	font-size-adjust: 100%;
+	color: #fff;
+	padding: 14px 30px;
+	padding-top: auto;
+	padding-left: auto;
+	padding-right: auto;
+	border-radius: 4px;
+	outline: none;
+	transition: background 0.5s;
+} */
+
+
+/* .btn.btn-sm{
+	padding: 10px 20px;
+}
+
+.btn.btn-bg{
+	padding: 20px 40px;
+}
+
+.btn.btn-lg{
+	padding: 15px 100px;
+	width: 100%; */
+}
+
+/* .table-lg td,
+.table-lg th{
+	padding: .5rem;
+} */
